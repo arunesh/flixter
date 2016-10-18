@@ -43,7 +43,7 @@ public class MovieActivity extends AppCompatActivity {
 
             @Override
             public void onSuccess(int statusCode, Header[] headers, JSONObject response) {
-                JSONArray movieJsonResults = null;
+                JSONArray movieJsonResults;
                 try {
                     movieJsonResults = response.getJSONArray("results");
                     movies.addAll(Movie.fromJsonArray(movieJsonResults));
