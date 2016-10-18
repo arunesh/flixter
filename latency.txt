@@ -1,0 +1,30 @@
+10-18 11:45:20.945 14782-14782/com.codepath.flixter D/ViewHolder: Deltas Overall: (ts4 - ts0) = 7729124 ViewHolder (ts2 - ts1 )2271 Rest of the rendering (ts4-ts3) 6206028
+10-18 11:45:20.949 14782-14782/com.codepath.flixter D/ViewHolder: Deltas Overall: (ts4 - ts0) = 596760 ViewHolder (ts2 - ts1 )3400 Rest of the rendering (ts4-ts3) 60464
+10-18 11:45:20.952 14782-14782/com.codepath.flixter D/ViewHolder: Deltas Overall: (ts4 - ts0) = 810397 ViewHolder (ts2 - ts1 )2953 Rest of the rendering (ts4-ts3) 64635
+10-18 11:45:20.954 14782-14782/com.codepath.flixter D/ViewHolder: Deltas Overall: (ts4 - ts0) = 357192 ViewHolder (ts2 - ts1 )3128 Rest of the rendering (ts4-ts3) 57609
+10-18 11:45:20.956 14782-14782/com.codepath.flixter D/ViewHolder: Deltas Overall: (ts4 - ts0) = 577686 ViewHolder (ts2 - ts1 )2776 Rest of the rendering (ts4-ts3) 61291
+10-18 11:45:20.961 14782-14782/com.codepath.flixter D/ViewHolder: Deltas Overall: (ts4 - ts0) = 886696 ViewHolder (ts2 - ts1 )4053 Rest of the rendering (ts4-ts3) 60589
+10-18 11:45:20.962 14782-14782/com.codepath.flixter D/ViewHolder: Deltas Overall: (ts4 - ts0) = 345618 ViewHolder (ts2 - ts1 )3036 Rest of the rendering (ts4-ts3) 46073
+
+
+10-18 11:45:27.979 14782-14782/com.codepath.flixter D/ViewHolder: Deltas Overall: (ts4 - ts0) = 110041 ViewHolder (ts2 - ts1 )0 Rest of the rendering (ts4-ts3) 106957
+10-18 11:45:28.034 14782-14782/com.codepath.flixter D/ViewHolder: Deltas Overall: (ts4 - ts0) = 104299 ViewHolder (ts2 - ts1 )0 Rest of the rendering (ts4-ts3) 101437
+10-18 11:45:28.058 14782-14782/com.codepath.flixter D/ViewHolder: Deltas Overall: (ts4 - ts0) = 123227 ViewHolder (ts2 - ts1 )0 Rest of the rendering (ts4-ts3) 120935
+10-18 11:45:28.092 14782-14782/com.codepath.flixter D/ViewHolder: Deltas Overall: (ts4 - ts0) = 190739 ViewHolder (ts2 - ts1 )0 Rest of the rendering (ts4-ts3) 188278
+10-18 11:45:28.142 14782-14782/com.codepath.flixter D/ViewHolder: Deltas Overall: (ts4 - ts0) = 82126 ViewHolder (ts2 - ts1 )0 Rest of the rendering (ts4-ts3) 79590
+10-18 11:45:28.163 14782-14782/com.codepath.flixter D/ViewHolder: Deltas Overall: (ts4 - ts0) = 93399 ViewHolder (ts2 - ts1 )0 Rest of the rendering (ts4-ts3) 91181
+10-18 11:45:28.174 14782-14782/com.codepath.flixter D/ViewHolder: Deltas Overall: (ts4 - ts0) = 90430 ViewHolder (ts2 - ts1 )0 Rest of the rendering (ts4-ts3) 88370
+10-18 11:45:28.191 14782-14782/com.codepath.flixter D/ViewHolder: Deltas Overall: (ts4 - ts0) = 86798 ViewHolder (ts2 - ts1 )0 Rest of the rendering (ts4-ts3) 84760
+10-18 11:45:28.194 14782-14782/com.codepath.flixter D/ViewHolder: Deltas Overall: (ts4 - ts0) = 71870 ViewHolder (ts2 - ts1 )0 Rest of the rendering (ts4-ts3) 69839
+10-18 11:45:28.209 14782-14782/com.codepath.flixter D/ViewHolder: Deltas Overall: (ts4 - ts0) = 102501 ViewHolder (ts2 - ts1 )0 Rest of the rendering (ts4-ts3) 98772
+10-18 11:45:28.211 14782-14782/com.codepath.flixter D/ViewHolder: Deltas Overall: (ts4 - ts0) = 107673 ViewHolder (ts2 - ts1 )0 Rest of the rendering (ts4-ts3) 104916
+10-18 11:45:28.242 14782-14782/com.codepath.flixter D/ViewHolder: Deltas Overall: (ts4 - ts0) = 106704 ViewHolder (ts2 - ts1 )0 Rest of the rendering (ts4-ts3) 104206
+10-18 11:45:28.297 14782-14782/com.codepath.flixter D/ViewHolder: Deltas Overall: (ts4 - ts0) = 98954 ViewHolder (ts2 - ts1 )0 Rest of the rendering (ts4-ts3) 96147
+10-18 11:45:28.309 14782-14782/com.codepath.flixter D/ViewHolder: Deltas Overall: (ts4 - ts0) = 105137 ViewHolder (ts2 - ts1 )0 Rest of the rendering (ts4-ts3) 102852
+10-18 11:45:28.314 14782-14782/com.codepath.flixter D/ViewHolder: Deltas Overall: (ts4 - ts0) = 67942 ViewHolder (ts2 - ts1 )0 Rest of the rendering (ts4-ts3) 65653
+10-18 11:45:28.322 14782-14782/com.codepath.flixter D/ViewHolder: Deltas Overall: (ts4 - ts0) = 66171 ViewHolder (ts2 - ts1 )0 Rest of the rendering (ts4-ts3) 64231
+10-18 11:45:28.342 14782-14782/com.codepath.flixter D/ViewHolder: Deltas Overall: (ts4 - ts0) = 91353 ViewHolder (ts2 - ts1 )0 Rest of the rendering (ts4-ts3) 89027
+10-18 11:45:28.363 14782-14782/com.codepath.flixter D/ViewHolder: Deltas Overall: (ts4 - ts0) = 112090 ViewHolder (ts2 - ts1 )0 Rest of the rendering (ts4-ts3) 109255
+10-18 11:45:28.444 14782-14782/com.codepath.flixter D/ViewHolder: Deltas Overall: (ts4 - ts0) = 100151 ViewHolder (ts2 - ts1 )0 Rest of the rendering (ts4-ts3) 97273
+10-18 11:45:28.461 14782-14782/com.codepath.flixter D/ViewHolder: Deltas Overall: (ts4 - ts0) = 119922 ViewHolder (ts2 - ts1 )0 Rest of the rendering (ts4-ts3) 117611
+
